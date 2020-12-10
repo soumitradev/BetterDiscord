@@ -10672,7 +10672,7 @@ input:checked+.slider-3Z3pGX,
 .markup-2BOw-j pre code,
 .markup-2BOw-j pre code *,
 .markup-2BOw-j code.inline {
-    font-family: Roboto Mono, Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif !important;
+    font-family: serif !important;
 }
 
 .markup-2BOw-j code.inline,
@@ -16237,7 +16237,7 @@ body:active .layer-v9HyYc[style*="left: 80px"] .animatorTop-2Y7x2r .menu-3sdvDG#
     white-space: pre;
     font-size: 16px;
     color: #eee;
-    font-family: Roboto Mono, Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif !important;
+    font-family: serif !important;
 }
 
 .contentColumnDefault-1VQkGM .ace_gutter {
@@ -16249,7 +16249,7 @@ body:active .layer-v9HyYc[style*="left: 80px"] .animatorTop-2Y7x2r .menu-3sdvDG#
 }
 
 .ace_editor * {
-    font-family: Roboto Mono, Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif !important;
+    font-family: serif !important;
 }
 
 .ace_content {
