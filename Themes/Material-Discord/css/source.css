@@ -16707,7 +16707,7 @@ body:active .layer-v9HyYc[style*="left: 80px"] .animatorTop-2Y7x2r .menu-3sdvDG#
 
 .contentColumnDefault-1VQkGM .ace_editor:before {
     position: absolute;
-    content: "TEST**JOE\ATo change the colors such as the accent, copy the code below into\A the custom CSS. More variables can be found on the theme's GitHub\A repo page. bit.ly/MaterialDiscord\A\A :root {\A\9--accent-color: #3f51b5 !important;\A\9--accent-button-action: #fff !important;\A\9--accent-button-action-hover: 0.06 !important;\A\9--accent-button-action-active: 0.12 !important;\A\9--accent-rgb: rgba(39,147,230,0.3) !important;\A}";
+    content: "To change the colors such as the accent, copy the code below into\A the custom CSS. More variables can be found on the theme's GitHub\A repo page. bit.ly/MaterialDiscord\A\A :root {\A\9--accent-color: #3f51b5 !important;\A\9--accent-button-action: #fff !important;\A\9--accent-button-action-hover: 0.06 !important;\A\9--accent-button-action-active: 0.12 !important;\A\9--accent-rgb: rgba(39,147,230,0.3) !important;\A}";
     display: block;
     width: calc(100% - 32px);
     top: -257px;
